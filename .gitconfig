@@ -1,0 +1,7 @@
+[user]
+	email = zhuo1ang@Outlook.com
+	name = zhuo1ang
+[http]
+	proxy = 127.0.0.1:1080
+[https]
+	proxy = 127.0.0.1:1080
