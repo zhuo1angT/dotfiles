@@ -1,7 +1,17 @@
 [user]
-	email = zhuo1ang@Outlook.com
-	name = zhuo1ang
+	email = zhuo1angT@Outlook.com
+	name = Zhuoran He
 [http]
 	proxy = 127.0.0.1:1080
 [https]
 	proxy = 127.0.0.1:1080
+[init]
+	defaultBranch = main
+
+ [sendemail]
+    confirm = auto
+    smtpServer = smtp.office365.com
+    smtpServerPort = 587
+    smtpEncryption = tls
+    smtpUser = zhuo1angT@outlook.com
+
