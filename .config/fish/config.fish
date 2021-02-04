@@ -4,6 +4,8 @@
 export CC=(which clang)
 export CXX=(which clang++)
 
+export VISUAL="vim"
+
 export GOPATH=/home/zhuo1ang/go
 
 alias tiup="/home/zhuo1ang/.tiup/bin/tiup"
@@ -14,3 +16,5 @@ alias unsetproxy="set -e http_proxy;set -e https_proxy;set -e all_proxy;echo \"U
 set -U fish_greeting ""
 
 alias tldr="proxychains tldr"
+
+alias netease-cloud-music="netease-cloud-music --force-device-scale-factor=1.5 %U"
