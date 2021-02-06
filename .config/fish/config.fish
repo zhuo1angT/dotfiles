@@ -18,3 +18,5 @@ set -U fish_greeting ""
 alias tldr="proxychains tldr"
 
 alias netease-cloud-music="netease-cloud-music --force-device-scale-factor=1.5 %U"
+
+alias starship="starship init fish | source"
