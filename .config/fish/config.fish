@@ -18,3 +18,7 @@ set -U fish_greeting ""
 alias tldr="proxychains tldr"
 
 alias starship="starship init fish | source"
+
+thefuck --alias | source
+
+alias curl="http"
