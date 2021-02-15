@@ -58,6 +58,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdtree'
 Plug 'preservim/nerdtree'
+Plug 'zxqfl/tabnine-vim'
+Plug 'rhysd/vim-clang-format'
 
 call plug#end()
 

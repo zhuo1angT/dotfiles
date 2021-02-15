@@ -1,10 +1,6 @@
 [user]
 	email = zhuo1angT@Outlook.com
 	name = Zhuoran He
-[http]
-	proxy = 127.0.0.1:1080
-[https]
-	proxy = 127.0.0.1:1080
 
 [init]
 	defaultBranch = main
