@@ -22,3 +22,7 @@ alias starship="starship init fish | source"
 thefuck --alias | source
 
 alias curl="http"
+
+alias diff="diff --color"
+alias grep="grep --color=auto"
+alias ip="ip -color=auto"
