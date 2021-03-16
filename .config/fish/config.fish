@@ -1,8 +1,8 @@
 #export http_proxy="http://127.0.0.1:1080"
 #export https_proxy="https://127.0.0.1:1080"
 
-export CC=(which clang)
-export CXX=(which clang++)
+#export CC=(which clang)
+#export CXX=(which clang++)
 
 export VISUAL="vim"
 
@@ -21,7 +21,7 @@ alias starship="starship init fish | source"
 
 thefuck --alias | source
 
-alias curl="http"
+#alias curl="http"
 
 alias diff="diff --color"
 alias grep="grep --color=auto"
