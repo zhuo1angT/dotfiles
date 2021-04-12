@@ -30,3 +30,5 @@ alias ip="ip -color=auto"
 export NEMU_HOME="/home/zhuo1ang/ownCloud/PA/ics2020/nemu"
 export AM_HOME="/home/zhuo1ang/ownCloud/PA/ics2020/abstract-machine"
 export ISA="riscv32"
+
+set PATH ~/.cargo/bin $PATH
